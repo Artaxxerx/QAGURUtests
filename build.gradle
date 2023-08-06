@@ -38,3 +38,9 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+task master_test(type: Test){
+    useJUnitPlatform{
+
+    }
+}
