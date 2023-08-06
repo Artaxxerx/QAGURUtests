@@ -1,0 +1,1 @@
+{"uuid":"83e6c36f-0969-40a9-9791-5fcb93ac5630","name":"SelenideRepositorySearch","children":["eee7cfcb-8846-4f80-9abb-e641e5761d0f"],"befores":[{"name":"BeforeAll","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1691322618437,"stop":1691322618452}],"afters":[],"start":1691322618399,"stop":1691322628758}
